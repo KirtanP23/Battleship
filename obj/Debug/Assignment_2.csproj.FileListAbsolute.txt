@@ -1,0 +1,10 @@
+K:\COSC_2100\Assignment_2\bin\Debug\Assignment_2.exe.config
+K:\COSC_2100\Assignment_2\bin\Debug\Assignment_2.exe
+K:\COSC_2100\Assignment_2\bin\Debug\Assignment_2.pdb
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.frmBattleShip.resources
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.Properties.Resources.resources
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.csproj.GenerateResource.cache
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.exe
+K:\COSC_2100\Assignment_2\obj\Debug\Assignment_2.pdb
